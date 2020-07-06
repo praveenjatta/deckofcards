@@ -44,39 +44,35 @@ ExcelReading         :  Apache POI
 ### <a name="2-1"></a>TC_01
 Create a New Deck of Cards and Validate
 
-i) Create a New Deck of Cards
+i) Validate the Success Status & Shuffle Status
 
-ii) Validate the Success Status & Shuffle Status
+ii) Get the deckid & Total cards to print
 
-iii) Get the deckid & Total cards to print
+iii) Shuffle the Cards and Validate the Shuffle Status
 
-iv) Shuffle the Cards and Validate the Shuffle Status
+iv) Validate all the Cards in the Deck
 
-v) Validate all the Cards in the Deck
+### <a name="2-2"></a>TC_02
+Create a New Deck of Cards with Jokers and Validate
 
-### <a name="2-2"></a>TC_02 : Create a New Deck of Cards with Jokers and Validate
+i) Validate the Success Status & Shuffle Status
 
-i) Create a New Deck of Cards
+ii) Get the deckid & Total cards to print
 
-ii) Validate the Success Status & Shuffle Status
+iii) Shuffle the Cards and Validate the Shuffle Status
 
-iii) Get the deckid & Total cards to print
+iv) Validate all the Cards in the Deck
 
-iv) Shuffle the Cards and Validate the Shuffle Status
+### <a name="2-3"></a>TC_03
+Draw a Card from the Deck of Cards and Validate the Remaining cards
 
-v) Validate all the Cards in the Deck
+i) Validate the Success Status & Shuffle Status
 
-### <a name="2-3"></a>TC_03 : Draw a Card from the Deck of Cards and Validate the Remaining cards
+ii) Get the deckid & Total cards to print
 
-i) Create a New Deck of Cards
+iii) Shuffle the Cards and Validate the Shuffle Status
 
-ii) Validate the Success Status & Shuffle Status
-
-iii) Get the deckid & Total cards to print
-
-iv) Shuffle the Cards and Validate the Shuffle Status
-
-v) Validate all the Cards in the Deck
+iv) Validate all the Cards in the Deck
 
 
 
