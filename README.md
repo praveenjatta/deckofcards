@@ -20,7 +20,13 @@ ExcelReading         :  Apache POI
 
 
 ## <a name="2"></a> Test Scenario's
-#### <a name="3-1"></a> TC_01 : Create a New Deck of Cards and Validate the Below
+
+### <a name="3-1"></a>TC_01: Create a New Deck of Cards and Validate the Below
+i) Create a New Deck of Cards
+ii) Validate the Success Status & Shuffle Status
+iii) Get the deckid & Total cards to print
+iv) Shuffle the Cards and Validate the Shuffle Status
+v) Validate all the Cards in the Deck
 
 
   
