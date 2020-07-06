@@ -53,6 +53,19 @@ iv) Shuffle the Cards and Validate the Shuffle Status
 
 v) Validate all the Cards in the Deck
 
+### <a name="2-3"></a>TC_03 : Draw a Card from the Deck of Cards and Validate the Remaining cards
+
+i) Create a New Deck of Cards
+
+ii) Validate the Success Status & Shuffle Status
+
+iii) Get the deckid & Total cards to print
+
+iv) Shuffle the Cards and Validate the Shuffle Status
+
+v) Validate all the Cards in the Deck
+
+
 
 
 
