@@ -9,6 +9,14 @@ This is an Automation Project Created to test deckofcards API. This Assignment w
 1. [Tools](#1)
 
 2. [Test Scenario's](#2)
+    1. [TC_01](#2-1)
+    2. [TC_02](#2-2)
+    3. [TC_03](#2-3)
+
+3. [How to Execute ?](#3)
+    1. [Installations](#3-1)
+    2. [Execution](#3-21)
+
 
 
 ## <a name="1"></a>Tools
@@ -18,6 +26,10 @@ Build tool :            Maven
 Programming Language :  Java
 
 BDD                  :  Cucumber
+
+Reports              : ExtentReport
+
+Logger               : Log4j
 
 Execution            :  TestNG
 
