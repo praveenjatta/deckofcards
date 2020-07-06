@@ -72,7 +72,19 @@ ii) Draw two cards again from the same deck and Validate the remaining cards
 
 
 
+## <a name="3"></a> How to Execute ?
+
+### <a name="3-1"></a>Installations
+
+i) Download Java SDK, Install and set Environment Variables in Java: Path and Classpath from [here](https://www.guru99.com/install-java.html)
+ii) Download Maven, Install and and configure the Windows environment variables. from [here](https://mkyong.com/maven/how-to-install-maven-in-windows/)
+ii) Download IntelliJ and Install from [here](https://java.tutorials24x7.com/blog/how-to-install-intellij-idea-for-java-on-windows)
+iv) Installing Plugins on IntelliJ and Configure SDK 
+from [here](https://www.jetbrains.com/help/idea/managing-plugins.html#plugin-dev)
+from [here](https://www.jetbrains.com/help/idea/sdk.html#change-project-sdk)
 
 
+### <a name="3-2"></a>Execution
+ 
   
 
