@@ -42,7 +42,7 @@ ExcelReading         :  Apache POI
 ## <a name="2"></a> Test Scenario's
 
 ### <a name="2-1"></a>TC_01
-Create a New Deck of Cards and Validate
+Create a New Deck of Cards and Validated the below
 
 i) Validate the Success Status & Shuffle Status
 
@@ -53,7 +53,7 @@ iii) Shuffle the Cards and Validate the Shuffle Status
 iv) Validate all the Cards in the Deck
 
 ### <a name="2-2"></a>TC_02
-Create a New Deck of Cards with Jokers and Validate
+Create a New Deck of Cards with Jokers and Validated the below
 
 i) Validate the Success Status & Shuffle Status
 
@@ -66,13 +66,9 @@ iv) Validate all the Cards in the Deck
 ### <a name="2-3"></a>TC_03
 Draw a Card from the Deck of Cards and Validate the Remaining cards
 
-i) Validate the Success Status & Shuffle Status
+i) Draw one card and Validate the remaining cards
 
-ii) Get the deckid & Total cards to print
-
-iii) Shuffle the Cards and Validate the Shuffle Status
-
-iv) Validate all the Cards in the Deck
+ii) Draw two cards again from the same deck and Validate the remaining cards
 
 
 
