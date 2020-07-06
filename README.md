@@ -43,6 +43,16 @@ v) Validate all the Cards in the Deck
 
 ### <a name="2-2"></a>TC_02 : Create a New Deck of Cards with Jokers and Validate
 
+i) Create a New Deck of Cards
+
+ii) Validate the Success Status & Shuffle Status
+
+iii) Get the deckid & Total cards to print
+
+iv) Shuffle the Cards and Validate the Shuffle Status
+
+v) Validate all the Cards in the Deck
+
 
 
 
