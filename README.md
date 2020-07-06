@@ -41,7 +41,8 @@ ExcelReading         :  Apache POI
 
 ## <a name="2"></a> Test Scenario's
 
-### <a name="2-1"></a>TC_01 : Create a New Deck of Cards and Validate
+### <a name="2-1"></a>TC_01
+Create a New Deck of Cards and Validate
 
 i) Create a New Deck of Cards
 
