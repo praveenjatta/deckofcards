@@ -1,7 +1,8 @@
 # deckofcards
 
 This is an Automation Project Created to test deckofcards API. This Assignment will be submitted to FINRA.
-https://deckofcardsapi.com/
+
+  https://deckofcardsapi.com/
 
 
 # Tools 
@@ -18,5 +19,5 @@ ExcelReading         :  Apache POI
 
 TC_01 : Create a New Deck of Cards and Validate the Below
 
-a) 
+  a) 
 
