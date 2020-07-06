@@ -29,7 +29,7 @@ ExcelReading         :  Apache POI
 
 ## <a name="2"></a> Test Scenario's
 
-### <a name="3-1"></a>TC_01: Create a New Deck of Cards and Validate the Below
+### <a name="2-1"></a>TC_01 : Create a New Deck of Cards and Validate
 
 i) Create a New Deck of Cards
 
@@ -40,6 +40,8 @@ iii) Get the deckid & Total cards to print
 iv) Shuffle the Cards and Validate the Shuffle Status
 
 v) Validate all the Cards in the Deck
+
+### <a name="2-2"></a>TC_02 : Create a New Deck of Cards with Jokers and Validate
 
 
 
