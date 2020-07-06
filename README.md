@@ -21,7 +21,7 @@ This is an Automation Project Created to test deckofcards API. This Assignment w
     1. [Html Report](#4-1)
     2. [Logs](#4-2)
     
-5. [Defects](#5)      
+5. [Defects Identified](#5)      
     
 6. [Help](#6)      
     
@@ -118,7 +118,7 @@ An Html Report will be generated in targer folder. This report is generated from
 A logs file will be generated under the project which can opened in Notepad and view the execution logs.
 
 
-## <a name="5"></a>Defects
+## <a name="5"></a>Defects Identified
 
 ### <a name="5-1"></a>Defect 1
 
@@ -126,7 +126,7 @@ When we create a new deck with Jokers response shows cards remaining as 54 count
 
 ### <a name="5-2"></a>Defect 2
 
-When we draw a card from the deck created with Jokers. you can only draw maximum 52 cards. 
+When we draw a card from the deck created with Jokers after Shuffling you can only draw maximum 52 cards. without shuffling you can draw 54 cards
 
 ## <a name="6"></a>Help
 
