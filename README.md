@@ -82,14 +82,19 @@ ii) Download Maven, Install and and configure the Windows environment variables.
 
 ii) Download IntelliJ and Install from [here](https://java.tutorials24x7.com/blog/how-to-install-intellij-idea-for-java-on-windows)
 
-iv) Installing Plugins on IntelliJ and Configure SDK 
+iv) Installing Plugins on IntelliJ from [here](https://www.jetbrains.com/help/idea/managing-plugins.html#plugin-dev)
 
-from [here](https://www.jetbrains.com/help/idea/managing-plugins.html#plugin-dev)
-
-from [here](https://www.jetbrains.com/help/idea/sdk.html#change-project-sdk)
+v) Configure SDK on IntelliJ from [here](https://www.jetbrains.com/help/idea/sdk.html#change-project-sdk)
 
 
 ### <a name="3-2"></a>Execution
+
+i) Open the project location on windows Explorer where you see pom.xml
+type cmd on the address bar you will see a command prompt type mvn clean install test and enter to execute the scripts.
+
+ii) Open the project in IntelliJ right click on the testng.xml annd click run
+
+iii) Open the project in IntelliJ and click on the terminal and type mvn clean install test and click enter to execute the scripts.
  
   
 
