@@ -15,7 +15,14 @@ This is an Automation Project Created to test deckofcards API. This Assignment w
 
 3. [How to Execute ?](#3)
     1. [Installations](#3-1)
-    2. [Execution](#3-21)
+    2. [Script Execution](#3-21)
+    
+4. [Reports & Logs](#4)    
+    1. [Html Report](#4-1)
+    2. [Logs](#4-2)
+    
+4. [Help](#5)      
+    
 
 
 
@@ -87,7 +94,7 @@ iv) Installing Plugins on IntelliJ from [here](https://www.jetbrains.com/help/id
 v) Configure SDK on IntelliJ from [here](https://www.jetbrains.com/help/idea/sdk.html#change-project-sdk)
 
 
-### <a name="3-2"></a>Execution
+### <a name="3-2"></a>Script Execution
 
 i) Open the project location on windows Explorer where you see pom.xml
 type cmd on the address bar you will see a command prompt type mvn clean install test and enter to execute the scripts.
@@ -97,4 +104,20 @@ ii) Open the project in IntelliJ right click on the testng.xml annd click run
 iii) Open the project in IntelliJ and click on the terminal and type mvn clean install test and click enter to execute the scripts.
  
   
+  
+## <a name="4"></a> Reports & Logs
+
+### <a name="4-1"></a>Html Report
+
+An Html Report will be generated in targer folder. This report is generated from extent report where you can see all the executed steps.
+
+### <a name="4-2"></a>Logs
+
+A logs file will be generated under the project which can opened in Notepad and view the execution logs.
+
+
+## <a name="5"></a>Help
+
+If you have any questions on this project, please send an email @ praveenjatta20@gmail.com
+
 
