@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="deckofcards" parallel="none">
+
+
+    <test name="DeckOfCards TestCase">
+        <classes>
+            <parameter name="FeatureName" value="DeckOfCards.feature"/>
+            <class name="com.finra.qa.sqm.testrunner.RunCukesByCompositionTest"></class>
+        </classes>
+    </test>
+
+
+</suite>
